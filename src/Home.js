@@ -32,7 +32,6 @@ const Home = () => {
             <div className='flex flex-col items-center justify-center pb-8'>
                 <h1 className='text-[50px] md:text-[70px] text-white pt-6'>Video Conference Application
                 </h1>
-                <p className='text-[30px] text-white -mt-2'>With ZegoCloud</p>
             </div>
         <form onSubmit={submitCode} 
         className='text-white md:pt-12 flex flex-col items-center justify-center'> 
